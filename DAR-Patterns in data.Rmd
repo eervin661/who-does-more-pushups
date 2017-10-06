@@ -1,6 +1,6 @@
 ---
 title: "Who does more pushups"
-author: "your name"
+author: "Ebony Ervin"
 date: "March 8"
 output: html_document
 ---
@@ -34,7 +34,7 @@ Our Research Question is:
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-
+Depending on the type of information I see in my data will determine which plot will be more useful to analyze the information i need. I have categorical data called position and numerical data called pushups. I plan to the use a box plot to display the data. Im going to use favcstats as a numerical method to see if they are different. Finally Im going to use a Ttest to make  inferential sense of this data.
 
 
 
