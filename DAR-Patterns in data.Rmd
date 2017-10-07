@@ -79,7 +79,7 @@ Based on the information I have gathered after conducting the ttest I can see th
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
-
+Based on all the information gathered during the course of this project it is safe for one to assume that skills players do more pushups than line players.
 
 
 
